@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Focus-Mobile%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-Russian-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-Kazakh-dodgerblue" />
 </p>
 
 - 🔭 I’m currently looking for an Intern or Junior positions
