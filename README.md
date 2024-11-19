@@ -25,7 +25,7 @@
 
 - **Languages**:
     
-     <img src="https://download.logo.wine/logo/Swift_(programming_language)/Swift_(programming_language)-Logo.wine.png" width="40" height="40" />
+     <img src="https://download.logo.wine/logo/Swift_(programming_language)/Swift_(programming_language)-Logo.wine.png" width="200" height="100" />
   
 - **Front-End Development**:
 
