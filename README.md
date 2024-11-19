@@ -74,5 +74,3 @@
 
 
 ------
-[Mahdiiye](https://github.com/Mahdiiye)
-Last Edited on: 19/01/2023
