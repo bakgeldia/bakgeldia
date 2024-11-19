@@ -35,12 +35,9 @@
 
 - **Softwares and Tools**:
 
-    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
+    <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="40" height="40" alt="Xcode"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="40" height="40" alt="Git"/>
-
-
-
+    <img src="https://static-00.iconduck.com/assets.00/sourcetree-icon-1626x2048-87bhm33f.png" width="40" height="40" alt="Xcode"/>
  
 
 <br>
