@@ -2,7 +2,7 @@
 	
 <!-- ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me** -->
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+<picture> <img align="right" src="" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Mobile%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
@@ -27,9 +27,11 @@
     
      <img src="https://cdn.iconscout.com/icon/free/png-256/free-swift-logo-icon-download-in-svg-png-gif-file-formats--programming-coding-development-logos-icons-1720082.png" width="40" height="40" />
   
-- **Mobile Development**:
 
-  <!-- <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" /> -->
+<!-- 
+- **Mobile Development**:
+   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" /> 
+-->
 
 
 
