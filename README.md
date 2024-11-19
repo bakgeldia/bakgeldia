@@ -37,7 +37,7 @@
 
     <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="40" height="40" alt="Xcode"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://static-00.iconduck.com/assets.00/sourcetree-icon-1626x2048-87bhm33f.png" width="40" height="40" alt="Xcode"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/313_Sourcetree_logo-512.png" width="40" height="40" alt="SourceTree"/>
  
 
 <br>
