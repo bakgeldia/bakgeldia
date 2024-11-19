@@ -9,9 +9,9 @@
   <img src="https://img.shields.io/badge/Languages-Russian-dodgerblue" />
 </p>
 
-- 🔭 I’m currently working on my side projects
+- 🔭 I’m currently looking for an Intern or Junior positions
 - 🌱 I’m currently learning iOS development (UIKit)
-- 👯 I’m looking to collaborate on your open source projects
+- 👯 I’m looking to collaborate on different projects
 - 💬 Ask me about Swift
 - 📫 How to reach me: Contact part
 - 😄 Pronouns: He/Him
