@@ -25,7 +25,7 @@
 
 - **Languages**:
     
-     <img src="https://cdn.iconscout.com/icon/free/png-256/free-swift-logo-icon-download-in-svg-png-gif-file-formats--programming-coding-development-logos-icons-1720082.png" width="200" height="100" />
+     <img src="https://cdn.iconscout.com/icon/free/png-256/free-swift-logo-icon-download-in-svg-png-gif-file-formats--programming-coding-development-logos-icons-1720082.png" width="40" height="100" />
   
 - **Front-End Development**:
 
