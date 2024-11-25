@@ -4,7 +4,7 @@
 
 <!-- <picture> <img align="right" src="" width = 400px></picture> -->
  <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Focus-iOS%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-Russian-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-Kazakh-dodgerblue" />
